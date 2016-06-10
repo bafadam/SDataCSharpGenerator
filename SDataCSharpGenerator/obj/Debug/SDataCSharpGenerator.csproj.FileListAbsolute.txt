@@ -1,0 +1,12 @@
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\bin\Debug\SDataCSharpGenerator.exe.config
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\bin\Debug\SDataCSharpGenerator.exe
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\bin\Debug\SDataCSharpGenerator.pdb
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\bin\Debug\Saleslogix.SData.Client.dll
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\bin\Debug\Saleslogix.SData.Client.pdb
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\bin\Debug\Saleslogix.SData.Client.xml
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\obj\Debug\SDataCSharpGenerator.csprojResolveAssemblyReference.cache
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\obj\Debug\SDataCSharpGenerator.Form1.resources
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\obj\Debug\SDataCSharpGenerator.Properties.Resources.resources
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\obj\Debug\SDataCSharpGenerator.csproj.GenerateResource.Cache
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\obj\Debug\SDataCSharpGenerator.exe
+C:\projects\SDataCSharpGenerator\SDataCSharpGenerator\obj\Debug\SDataCSharpGenerator.pdb
