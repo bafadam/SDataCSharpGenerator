@@ -46,6 +46,11 @@ namespace SDataCSharpGenerator.Classes
         {
 
             var path = resourceType;
+
+            var param = new SDataParameters { Path = resourceType + "/$template" };
+            var results = _sdata.Execute(param);
+            
+
             if (!string.IsNullOrEmpty(path))
             {
                 path += "/";
